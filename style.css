@@ -110,4 +110,19 @@ footer{
     width: 70%;
     height: 10vw;
     background-color: purple;
+    display: flex;
+    flex-direction: column;
+}
+
+#footerdiv1{
+    width: 100%;
+    height: 20%;
+    background-color: red;
+    margin-top: 2%;
+}
+
+#footerdiv2{
+    width: 100%;
+    height: 15%;
+    background-color: green;
 }
