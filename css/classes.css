@@ -39,7 +39,7 @@ a{
     text-decoration: none;
 }
 
-#about{
+#classes{
     color: #99FA99;
     font-size: 18px;
 }
@@ -66,12 +66,12 @@ a{
     flex-direction: column;
 }
 
-/* h1{
+h2{
     color: #21A51E;
     font-size: 35px;
 }
 
-h2{
+h3{
     color: #315F52;
     font-size: 23px;
     margin-bottom: 0;
@@ -82,7 +82,7 @@ p{
     font-size: 14px;
 }
 
-#leftdiv a{
+/* #leftdiv a{
     color: #315F52;
     text-decoration: underline;
 } */
